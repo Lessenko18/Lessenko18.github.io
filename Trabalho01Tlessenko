@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br“>
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+
+		<h1>Exercícios</h1>
+		<h2>Crie uma página HTML que contenha uma lista de compras.</h2>
+		<ul>
+		<li>Arroz</li>
+		<li>Café</li>
+		<li>Macarrão</li>
+		<li>Tomate</li>
+		</ul>
+
+		<h2>Crie uma página HTML que contenha os grupos da Copa do mundo de 2022 com seus respectivos países</h2>
+
+		<ul>
+		<li>Grupo A</li>
+		<ul>
+		<li>Catar<img src="https://static.significados.com.br/foto/bandeira-catar-cke.jpg" width="30" height="20"</li>
+		<li>Equador<img src="https://static.significados.com.br/flags/ec.svg" width="30" height="20"</li>	
+		<li>Holanda<img src="https://static.significados.com.br/flags/nl.svg" width="30" height="20"</li>
+		<li>Senegal<img src="https://static.significados.com.br/flags/sn.svg" width="30" height="20"</li>
